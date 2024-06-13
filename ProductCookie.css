@@ -1,0 +1,12 @@
+﻿table{
+    width: 700px;
+}
+
+table,td {
+    border: 1px solid #00ffff;
+    border-collapse: collapse;
+    padding: 5px;
+}
+.khung {
+    background-image: url(https://i.pinimg.com/564x/0a/07/83/0a078341c318296d33edae14a1368abb.jpg);
+}s
